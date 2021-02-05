@@ -7,4 +7,6 @@ bankterminal.cpp
 bankterminal.hpp
 bank.cpp
 bank.hpp
+mainterminal.hpp
+mainterminal.cpp
 )

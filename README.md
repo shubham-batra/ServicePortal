@@ -18,7 +18,17 @@ Given the open-endedness of this project, my hope is to make continual additions
 - The user will start with $1000
 - The only thing that is  planned to be global is the amount of money the user has
 
-# Current Version (0.1) (1/31/2021)
+
+
+# Current Version (0.2) (2/5/2021)
+- README updated
+- Refractored code (Made it so main.cpp executes the rest of the whole program)
+- Got the deposit and withdraw functions working
+- Some basic loops added so program does not immediately terminate
+
+# Past Versions 
+# Version (0.1) (1/30/2021)
+- Header files issue with VScode fixed
 - Initial Github Upload
-- README.ME Added
+- README.MD Added
 - Code Started

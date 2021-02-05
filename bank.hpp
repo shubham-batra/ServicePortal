@@ -2,13 +2,13 @@
 class bank {
 
 public:
-std::string firstName;
-std::string lastName;
-
-private:
-double balance;
+void displayBalance();
 double deposit();
 double withsdraw();
 
+private:
+double balance = 1000;
+std::string firstName;
+std::string lastName;
 
 };
